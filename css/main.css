@@ -36,10 +36,10 @@ image-rendering: crisp-edges;
     color: #CC0000 !important;
   }
   .light {
-    color: #FF6A6A;
+    color: #FF8c8c;
   }
   .light-bg{
-    background-color: #FF6A6A;
+    background-color: #FF8c8c;
     color: white;
   }
   .light-bg a {
@@ -181,7 +181,7 @@ image-rendering: crisp-edges;
   span.title-text {
     font-size: 30px;
     display: block;
-    padding-bottom: 20px; 
+    padding-bottom: 20px;
     /*font-family: 'Bebas Neue' !important;*/
   }
 
@@ -340,7 +340,7 @@ image-rendering: crisp-edges;
     width: 100%;
     /*font-family: 'Bebas Neue' !important;*/
     /*padding-left: 0.5em;
-    padding-right: 0.5em;*/   
+    padding-right: 0.5em;*/
     /*background-color: #FF6A6A;*/
     /*opacity: 0.9;*/
     border-radius: 5pt;
@@ -385,7 +385,7 @@ image-rendering: crisp-edges;
       font-weight: bold;
       color:#ff6a6a
   }
-  
+
   .white-bg .guide-header{
     color:#ff6a6a;
   }
@@ -401,7 +401,7 @@ image-rendering: crisp-edges;
     text-align: center !important;
       font-size: 18px;
       font-weight: bold;
-      color:#ffffff;    
+      color:#ffffff;
   }
   section span.faq-question {
       font-size: 18px;
