@@ -1,6 +1,6 @@
 html *
 {
-   font-family: 'Raleway', sans-serif !important;
+   font-family: 'Lato', sans-serif !important;
    text-transform: none !important;
 }
 image-rendering: -moz-crisp-edges;         /* Firefox */
@@ -126,19 +126,20 @@ image-rendering: crisp-edges;
   }
 
 /* Logo */
-  img.leanonme-logo-nav {
+  img.logo-nav {
       height: 30px;
       margin-top: -7px;
   }
 
-  img.leanonme-logo {
-    padding-top: 75px;
-    width: 360px;
+  img.logo-img {
+    padding-top: 95px;
+    width: 480px;
+    padding-bottom: 50px;
   }
 
 /* Navbar */
   nav.navbar.navbar-custom.top-nav-collapse {
-    background-color: #ff6a6a;
+    background-color: #ff8c8c;
 
   }
 
