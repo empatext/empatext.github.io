@@ -127,13 +127,13 @@ image-rendering: crisp-edges;
 
 /* Logo */
   img.logo-nav {
-      height: 30px;
+      height: 30px !important;
       margin-top: -7px;
   }
 
   img.logo-img {
     padding-top: 95px;
-    width: 480px;
+    width: 480px !important;
     padding-bottom: 50px;
   }
 
