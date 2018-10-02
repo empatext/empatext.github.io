@@ -29,6 +29,15 @@ image-rendering: crisp-edges;
     color: #FF8c8c;
   }
 
+  .headshot-div {
+    display: block;
+    margin: auto;
+  }
+  .headshot {
+    width: 200px;
+    height: 200px;
+  }
+
 
   .light-bg a {
     color: white;
