@@ -9,39 +9,27 @@ image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
 image-rendering: crisp-edges;
 -ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
 /* COLORS */
-  .faq-answer{
-    color:#ffaaaa;
-  }
   .white {
     color: white;
   }
-  .white-bg {
-    background-color: white;
-    color: #FF6A6A;
-  }
-  .guide-description{
-    color:#FFFFFF;
-  }
-  .white-bg .guide-description ,
-  .white-bg .faq-answer {
-    color: #CC0000;
-  }
-  .white-bg a:visited,
-  .white-bg a:link {
-    color: #FF6A6A;
-    text-decoration: underline;
-  }
-  .white-bg a:hover,
-  .white-bg a:active {
-    color: #CC0000 !important;
-  }
-  .light {
-    color: #FF8c8c;
-  }
-  .light-bg{
+  .salmon-bg{
     background-color: #FF8c8c;
     color: white;
   }
+  .blue-bg{
+    background-color: #9bdaff;
+    color: white;
+  }
+  .brown-bg{
+    background-color: #f2c39d;
+    color: white;
+  }
+  .white-bg{
+    background-color: white;
+    color: #FF8c8c;
+  }
+
+
   .light-bg a {
     color: white;
     text-decoration: underline;
@@ -55,6 +43,27 @@ image-rendering: crisp-edges;
   .light-bg a:active {
     color: #CC0000 !important;
   }
+
+
+
+  .white-bg {
+    background-color: white;
+    color: #FF6A6A;
+  }
+
+  .white-bg a:visited,
+  .white-bg a:link {
+    color: #FF6A6A;
+    text-decoration: underline;
+  }
+  .white-bg a:hover,
+  .white-bg a:active {
+    color: #CC0000 !important;
+  }
+  .light {
+    color: #FF8c8c;
+  }
+
   .dark{
     color: #CC0000;
   }
@@ -128,7 +137,7 @@ image-rendering: crisp-edges;
 /* Logo */
   img.empa-logo-nav {
       height: 30px;
-      margin-top: -7px;
+      margin-top: -1px;
   }
 
   img.empa-logo {
@@ -141,6 +150,11 @@ image-rendering: crisp-edges;
   nav.navbar.navbar-custom.top-nav-collapse {
     background-color: #ff8c8c;
 
+  }
+
+  nav.navbar.navbar-custom.top-nav-collapse a:hover,
+  nav.navbar.navbar-custom.top-nav-collapse a:active {
+    color: #CC0000 !important;
   }
 
   .navbar-nav>li>a {
@@ -180,9 +194,10 @@ image-rendering: crisp-edges;
 
 
   span.title-text {
-    font-size: 30px;
+    font-size: 55px;
     display: block;
-    padding-bottom: 20px;
+    padding-bottom: 75px;
+    margin-top: -35px;
     /*font-family: 'Bebas Neue' !important;*/
   }
 
@@ -201,9 +216,21 @@ image-rendering: crisp-edges;
     flex-direction: column;
   }
 
-  .intro-phone{
+  .landing-phone{
+    padding-top: 20px;
+    font-size: 52px;
+  }
+
+  .landing-phone:hover{
     font-size: 64px;
   }
+
+  .guide-description {
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 80px;
+  }
+
 
 /* team Section*/
   .team {
@@ -410,14 +437,15 @@ image-rendering: crisp-edges;
       color:#ff6a6a;
   }
 
-  .guide-header-pic{
-    display: block !important;
-    margin: auto !important;
-
-    text-align: center !important;
-    display: inline-block;
-    margin:0px;
+  .guide-header {
+    display: block;
   }
+
+  .guide-header-pic{
+    width: 300px;
+    height: 100px;
+  }
+
   .circled {
     display: block !important;
     margin: auto !important;
