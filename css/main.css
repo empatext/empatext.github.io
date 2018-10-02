@@ -126,14 +126,14 @@ image-rendering: crisp-edges;
   }
 
 /* Logo */
-  img.logo-nav {
-      height: 30px !important;
+  img.empa-logo-nav {
+      height: 30px;
       margin-top: -7px;
   }
 
-  img.logo-img {
+  img.empa-logo {
     padding-top: 95px;
-    width: 480px !important;
+    width: 480px;
     padding-bottom: 50px;
   }
 
