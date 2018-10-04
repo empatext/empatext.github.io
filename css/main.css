@@ -39,6 +39,16 @@ image-rendering: crisp-edges;
   }
 
 
+    .salmon-bg a {
+      color: white;
+      text-decoration: underline;
+    }
+    .salmon-bg a:hover,
+    .salmon-bg a:active {
+      color: #CC0000 !important;
+    }
+
+
   .light-bg a {
     color: white;
     text-decoration: underline;

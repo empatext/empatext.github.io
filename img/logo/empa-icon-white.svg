@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="empa-icon-white.svg"
-   inkscape:export-filename="/Users/atratt/Documents/g/empatext.github.io/img/logo/empa-logo-white-v2.png"
+   inkscape:export-filename="/Users/atratt/Documents/g/empatext.github.io/img/logo/empa-icon-salmon-red.png"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400">
   <defs
@@ -44,16 +44,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ff34ff"
+     pagecolor="#ff8c8c"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="60.165014"
+     inkscape:cx="34.093585"
      inkscape:cy="72.470336"
      inkscape:document-units="ft"
-     inkscape:current-layer="g4193"
+     inkscape:current-layer="g4637"
      showgrid="false"
      units="in"
      fit-margin-top="0.3"
@@ -104,7 +104,7 @@
              inkscape:connector-curvature="0"
              id="path4166"
              d="m 131.03614,922.63368 c 7.30819,-40.55536 35.21024,-9.25772 21.18244,10.30021 -7.63674,12.13097 -16.36309,27.52487 -21.82893,41.14246 -5.3055,-13.86874 -10.38759,-23.49092 -21.35488,-44.50969 -12.346377,-19.61742 17.56634,-47.1269 22.00137,-6.93298 z"
-             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.62253737;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.86761206, 2.62253735;stroke-dashoffset:0;stroke-opacity:1" />
+             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d30000;stroke-width:2.62253737;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.86761206, 2.62253734999999999;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              transform="matrix(0.87417912,0,0,0.87417912,16.493727,113.03802)"
              clip-path="url(#clipPath4595)"
