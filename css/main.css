@@ -235,6 +235,65 @@ image-rendering: crisp-edges;
     flex-direction: column;
   }
 
+  @media (max-width: 1199px) {
+
+  }
+  @media (max-width: 767px) {
+    h2 {
+      font-size: 28px;
+    }
+    .empa-logo {
+      width: 90%;
+      margin-top: 150px;
+      margin-bottom: 30px;
+    }
+    .navbar-nav>li>a {
+      font-size: 23px;
+    }
+    img.empa-logo-nav {
+        height: 40px;
+        margin-top: -1px;
+    }
+    .title-text {
+      padding-top: 85px;
+      padding-bottom: 45px !important;
+    }
+    .guide-description {
+      font-size: 26px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 25px !important;
+    }
+    .mobile-p {
+      font-size: 38px !important;
+      padding-left: 18px !important;
+    }
+    .headshot-div {
+      margin-top: -20px;
+      padding-bottom: 30px;
+    }
+    .mobile-headshot {
+      width: 300px !important;
+      height: 300px !important;
+    }
+    .mobile-legal {
+      font-size: 38px !important;
+    }
+    .mobile-contact {
+      font-size: 28px !important;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 20px;
+    }
+  }
+
+  .mobile-headshot {
+    width:200px;
+    height:200px;
+    margin:auto;
+    display:block;
+  }
+
   .landing-phone{
     padding-top: 20px;
     font-size: 52px;
