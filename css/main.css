@@ -8,20 +8,13 @@ image-rendering:   -o-crisp-edges;         /* Opera */
 image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
 image-rendering: crisp-edges;
 -ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
-/* COLORS */
+/* COLORS
+previous salmon-bg: #FF8c8c*/
   .white {
     color: white;
   }
   .salmon-bg{
-    background-color: #FF8c8c;
-    color: white;
-  }
-  .blue-bg{
-    background-color: #9bdaff;
-    color: white;
-  }
-  .brown-bg{
-    background-color: #f2c39d;
+    background-color: #7c028e;
     color: white;
   }
   .white-bg{
